@@ -1,0 +1,6 @@
+a = int(input("Nhập vào N1: "))
+b = int(input("Nhập vào N2: "))
+N12 = (a+b)
+M12 = (a-b)
+print(f"Kết quả cộng là: {N12}")
+print(f"Kết quả trừ là: {M12}")
